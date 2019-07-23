@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document version="2.0">
+	<VersionNumber>-1</VersionNumber>
+	<Modified>1</Modified>
+	<Ext>(null)</Ext>
+	<Properties className="DMDocument">
+		<isExpanded className="__NSCFNumber">1</isExpanded>
+		<isGroup className="__NSCFNumber">0</isGroup>
+		<title className="NSTaggedPointerString">Test</title>
+		<password className="__NSCFConstantString">(null)</password>
+		<markColor className="__NSCFNumber">0</markColor>
+		<note className="__NSCFConstantString">(null)</note>
+		<context className="DMDocumentInnerObject">
+			<isExpanded className="__NSCFNumber">1</isExpanded>
+			<isGroup className="__NSCFNumber">1</isGroup>
+			<title className="__NSCFConstantString">Group</title>
+			<completionState className="__NSCFNumber">0</completionState>
+			<color className="__NSCFNumber">0</color>
+			<fontStyle className="__NSCFNumber">0</fontStyle>
+			<ID>754DC791-509A-4446-B548-3FA54329A093</ID>
+			<ChildItems>
+				<ID>3299F361-E74B-4F51-A6D5-75A87D85E01B</ID>
+				<ID>57DB0A07-41A9-48BE-824E-8CD4C2523149</ID>
+			</ChildItems>
+			<ChildItem className="DMDocumentInnerObject">
+				<isExpanded className="__NSCFNumber">1</isExpanded>
+				<isGroup className="__NSCFNumber">1</isGroup>
+				<title className="NSTaggedPointerString">html</title>
+				<completionState className="__NSCFNumber">0</completionState>
+				<color className="__NSCFNumber">0</color>
+				<fontStyle className="__NSCFNumber">0</fontStyle>
+				<ID>3299F361-E74B-4F51-A6D5-75A87D85E01B</ID>
+				<ChildItems />
+			</ChildItem>
+			<ChildItem className="DMDocumentInnerObject">
+				<isExpanded className="__NSCFNumber">1</isExpanded>
+				<isGroup className="__NSCFNumber">1</isGroup>
+				<title className="NSTaggedPointerString">css</title>
+				<completionState className="__NSCFNumber">0</completionState>
+				<color className="__NSCFNumber">0</color>
+				<fontStyle className="__NSCFNumber">0</fontStyle>
+				<ID>57DB0A07-41A9-48BE-824E-8CD4C2523149</ID>
+				<ChildItems />
+			</ChildItem>
+		</context>
+		<fontSize className="__NSCFNumber">18</fontSize>
+		<defaultFontStyle className="__NSCFNumber">0</defaultFontStyle>
+		<defaultColor className="__NSCFNumber">0</defaultColor>
+		<numerationStyle className="__NSCFNumber">0</numerationStyle>
+		<lastModificationTime className="__NSCFNumber">1563900343.195811</lastModificationTime>
+		<showCheckBox className="__NSCFNumber">1</showCheckBox>
+		<hideCheckedEnements className="__NSCFNumber">0</hideCheckedEnements>
+		<hideUncheckedEnements className="__NSCFNumber">0</hideUncheckedEnements>
+		<resizebleLineForTextSize className="__NSCFNumber">0</resizebleLineForTextSize>
+		<showNotesOnlyForSelectedRow className="__NSCFNumber">0</showNotesOnlyForSelectedRow>
+		<readOnly className="__NSCFNumber">0</readOnly>
+		<ID>25ED64D7-CFE4-48A6-B149-C8BD729E5A18</ID>
+		<ChildItems />
+	</Properties>
+	<BaseVersion>
+		<VersionNumber>-1</VersionNumber>
+		<Modified>1</Modified>
+		<Ext>(null)</Ext>
+		<Properties className="DMDocument">
+			<isExpanded className="__NSCFNumber">1</isExpanded>
+			<isGroup className="__NSCFNumber">0</isGroup>
+			<title className="__NSCFConstantString">(null)</title>
+			<password className="__NSCFConstantString">(null)</password>
+			<markColor className="__NSCFNumber">0</markColor>
+			<note className="__NSCFConstantString">(null)</note>
+			<context className="DMDocumentInnerObject">
+				<isExpanded className="__NSCFNumber">1</isExpanded>
+				<isGroup className="__NSCFNumber">1</isGroup>
+				<title className="NSTaggedPointerString">Group</title>
+				<completionState className="__NSCFNumber">0</completionState>
+				<color className="__NSCFNumber">0</color>
+				<fontStyle className="__NSCFNumber">0</fontStyle>
+				<ID>754DC791-509A-4446-B548-3FA54329A093</ID>
+				<ChildItems />
+			</context>
+			<fontSize className="__NSCFNumber">18</fontSize>
+			<defaultFontStyle className="__NSCFNumber">0</defaultFontStyle>
+			<defaultColor className="__NSCFNumber">0</defaultColor>
+			<numerationStyle className="__NSCFNumber">0</numerationStyle>
+			<lastModificationTime className="__NSCFNumber">1563900343.195811</lastModificationTime>
+			<showCheckBox className="__NSCFNumber">1</showCheckBox>
+			<hideCheckedEnements className="__NSCFNumber">0</hideCheckedEnements>
+			<hideUncheckedEnements className="__NSCFNumber">0</hideUncheckedEnements>
+			<resizebleLineForTextSize className="__NSCFNumber">0</resizebleLineForTextSize>
+			<showNotesOnlyForSelectedRow className="__NSCFNumber">0</showNotesOnlyForSelectedRow>
+			<readOnly className="__NSCFNumber">0</readOnly>
+			<ID>25ED64D7-CFE4-48A6-B149-C8BD729E5A18</ID>
+			<ChildItems />
+		</Properties>
+	</BaseVersion>
+</Document>
