@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document version="2.0">
+	<VersionNumber>-1</VersionNumber>
+	<Modified>1</Modified>
+	<Ext>(null)</Ext>
+	<Properties className="DMDocument">
+		<isExpanded className="__NSCFNumber">1</isExpanded>
+		<isGroup className="__NSCFNumber">0</isGroup>
+		<title className="NSTaggedPointerString">Lesson 1</title>
+		<password className="__NSCFConstantString">(null)</password>
+		<markColor className="__NSCFNumber">0</markColor>
+		<note className="__NSCFConstantString">(null)</note>
+		<context className="DMDocumentInnerObject">
+			<isExpanded className="__NSCFNumber">1</isExpanded>
+			<isGroup className="__NSCFNumber">1</isGroup>
+			<title className="__NSCFConstantString">Group</title>
+			<completionState className="__NSCFNumber">0</completionState>
+			<color className="__NSCFNumber">0</color>
+			<fontStyle className="__NSCFNumber">0</fontStyle>
+			<ID>E75BDA16-B31F-4332-96D5-907324E00FAE</ID>
+			<ChildItems>
+				<ID>C51EAE86-B43C-499E-9070-208048B54765</ID>
+				<ID>7D555491-CEAC-4067-9120-A0E120EE4ABE</ID>
+				<ID>07A57E0D-D6CE-42F3-A297-C0E4AB3AA171</ID>
+				<ID>E6258D0F-B13A-427C-98C0-7E70554DA7AE</ID>
+				<ID>E8D090F2-134E-46FA-8857-22F8C4767264</ID>
+			</ChildItems>
+			<ChildItem className="DMDocumentInnerObject">
+				<isExpanded className="__NSCFNumber">0</isExpanded>
+				<isGroup className="__NSCFNumber">1</isGroup>
+				<title className="NSTaggedPointerString">intro</title>
+				<completionState className="__NSCFNumber">0</completionState>
+				<color className="__NSCFNumber">0</color>
+				<fontStyle className="__NSCFNumber">0</fontStyle>
+				<ID>C51EAE86-B43C-499E-9070-208048B54765</ID>
+				<ChildItems>
+					<ID>EFCC7ECF-219E-4EA5-ACB5-3ECF39D12BB8</ID>
+					<ID>D2489BC7-7631-4BB5-85D8-E6E023D9B00C</ID>
+					<ID>265D6E07-CBC9-4502-A949-9176841E8AE5</ID>
+				</ChildItems>
+				<ChildItem className="DMDocumentInnerObject">
+					<isExpanded className="__NSCFNumber">1</isExpanded>
+					<isGroup className="__NSCFNumber">1</isGroup>
+					<title className="__NSCFString">why and helpful , experience</title>
+					<completionState className="__NSCFNumber">0</completionState>
+					<color className="__NSCFNumber">0</color>
+					<fontStyle className="__NSCFNumber">0</fontStyle>
+					<ID>EFCC7ECF-219E-4EA5-ACB5-3ECF39D12BB8</ID>
+					<ChildItems />
+				</ChildItem>
+				<ChildItem className="DMDocumentInnerObject">
+					<isExpanded className="__NSCFNumber">1</isExpanded>
+					<isGroup className="__NSCFNumber">1</isGroup>
+					<title className="__NSCFString">dive right in and gradually accumulate</title>
+					<completionState className="__NSCFNumber">0</completionState>
+					<color className="__NSCFNumber">0</color>
+					<fontStyle className="__NSCFNumber">0</fontStyle>
+					<ID>D2489BC7-7631-4BB5-85D8-E6E023D9B00C</ID>
+					<ChildItems />
+				</ChildItem>
+				<ChildItem className="DMDocumentInnerObject">
+					<isExpanded className="__NSCFNumber">1</isExpanded>
+					<isGroup className="__NSCFNumber">1</isGroup>
+					<title className="__NSCFString">want to see results immediately</title>
+					<completionState className="__NSCFNumber">0</completionState>
+					<color className="__NSCFNumber">0</color>
+					<fontStyle className="__NSCFNumber">0</fontStyle>
+					<ID>265D6E07-CBC9-4502-A949-9176841E8AE5</ID>
+					<ChildItems />
+				</ChildItem>
+			</ChildItem>
+			<ChildItem className="DMDocumentInnerObject">
+				<isExpanded className="__NSCFNumber">0</isExpanded>
+				<isGroup className="__NSCFNumber">1</isGroup>
+				<title className="__NSCFString">basic tools</title>
+				<completionState className="__NSCFNumber">0</completionState>
+				<color className="__NSCFNumber">0</color>
+				<fontStyle className="__NSCFNumber">0</fontStyle>
+				<ID>7D555491-CEAC-4067-9120-A0E120EE4ABE</ID>
+				<ChildItems>
+					<ID>63E1AE8D-83B4-44BC-9176-A329F25031EB</ID>
+					<ID>6F9D8650-3363-4899-A93E-640FA9EF272C</ID>
+				</ChildItems>
+				<ChildItem className="DMDocumentInnerObject">
+					<isExpanded className="__NSCFNumber">1</isExpanded>
+					<isGroup className="__NSCFNumber">1</isGroup>
+					<title className="NSTaggedPointerString">text editor</title>
+					<completionState className="__NSCFNumber">0</completionState>
+					<color className="__NSCFNumber">0</color>
+					<fontStyle className="__NSCFNumber">0</fontStyle>
+					<ID>63E1AE8D-83B4-44BC-9176-A329F25031EB</ID>
+					<ChildItems />
+				</ChildItem>
+				<ChildItem className="DMDocumentInnerObject">
+					<isExpanded className="__NSCFNumber">1</isExpanded>
+					<isGroup className="__NSCFNumber">1</isGroup>
+					<title className="__NSCFString">browser engine and browsers</title>
+					<completionState className="__NSCFNumber">0</completionState>
+					<color className="__NSCFNumber">0</color>
+					<fontStyle className="__NSCFNumber">0</fontStyle>
+					<ID>6F9D8650-3363-4899-A93E-640FA9EF272C</ID>
+					<ChildItems>
+						<ID>E04B1707-F61F-46AD-8912-DE95D377B166</ID>
+						<ID>BB26F99A-E7D6-458C-BC9B-3E24EACF75F5</ID>
+						<ID>537CD705-8172-45DC-AAF2-AF952564686C</ID>
+						<ID>FD325A22-8D05-4BD8-9CC7-BA60B0396AB9</ID>
+						<ID>788539D2-2092-4F3A-9BC7-0E9B75D8C6F7</ID>
+						<ID>A155326E-F88F-47FE-A2F9-12E40E63C8DA</ID>
+					</ChildItems>
+					<ChildItem className="DMDocumentInnerObject">
+						<isExpanded className="__NSCFNumber">1</isExpanded>
+						<isGroup className="__NSCFNumber">1</isGroup>
+						<title className="__NSCFString">intro: primary job of a browser engine is to transform HTML documents and other resources of a web page into an interactive visual representation on a user&apos;s device</title>
+						<completionState className="__NSCFNumber">0</completionState>
+						<color className="__NSCFNumber">0</color>
+						<fontStyle className="__NSCFNumber">0</fontStyle>
+						<ID>E04B1707-F61F-46AD-8912-DE95D377B166</ID>
+						<ChildItems />
+					</ChildItem>
+					<ChildItem className="DMDocumentInnerObject">
+						<isExpanded className="__NSCFNumber">0</isExpanded>
+						<isGroup className="__NSCFNumber">1</isGroup>
+						<title className="NSTaggedPointerString">gecko</title>
+						<completionState className="__NSCFNumber">0</completionState>
+						<color className="__NSCFNumber">0</color>
+						<fontStyle className="__NSCFNumber">0</fontStyle>
+						<ID>BB26F99A-E7D6-458C-BC9B-3E24EACF75F5</ID>
+						<ChildItems>
+							<ID>4173642D-98D5-4798-965B-41BCAE1348CF</ID>
+						</ChildItems>
+						<ChildItem className="DMDocumentInnerObject">
+							<isExpanded className="__NSCFNumber">1</isExpanded>
+							<isGroup className="__NSCFNumber">1</isGroup>
+							<title className="NSTaggedPointerString">firefox</title>
+							<completionState className="__NSCFNumber">0</completionState>
+							<color className="__NSCFNumber">0</color>
+							<fontStyle className="__NSCFNumber">0</fontStyle>
+							<ID>4173642D-98D5-4798-965B-41BCAE1348CF</ID>
+							<ChildItems />
+						</ChildItem>
+					</ChildItem>
+					<ChildItem className="DMDocumentInnerObject">
+						<isExpanded className="__NSCFNumber">1</isExpanded>
+						<isGroup className="__NSCFNumber">1</isGroup>
+						<title className="NSTaggedPointerString">blink</title>
+						<completionState className="__NSCFNumber">0</completionState>
+						<color className="__NSCFNumber">0</color>
+						<fontStyle className="__NSCFNumber">0</fontStyle>
+						<ID>537CD705-8172-45DC-AAF2-AF952564686C</ID>
+						<ChildItems>
+							<ID>CA405D6D-B6B5-4B8E-A787-C13AF03F6CD9</ID>
+							<ID>80F60D15-709D-4765-8136-49B250C7E320</ID>
+							<ID>5E34B619-A457-49A5-8659-F94898F96904</ID>
+						</ChildItems>
+						<ChildItem className="DMDocumentInnerObject">
+							<isExpanded className="__NSCFNumber">1</isExpanded>
+							<isGroup className="__NSCFNumber">1</isGroup>
+							<title className="NSTaggedPointerString">chrome</title>
+							<completionState className="__NSCFNumber">0</completionState>
+							<color className="__NSCFNumber">0</color>
+							<fontStyle className="__NSCFNumber">0</fontStyle>
+							<ID>CA405D6D-B6B5-4B8E-A787-C13AF03F6CD9</ID>
+							<ChildItems />
+						</ChildItem>
+						<ChildItem className="DMDocumentInnerObject">
+							<isExpanded className="__NSCFNumber">1</isExpanded>
+							<isGroup className="__NSCFNumber">1</isGroup>
+							<title className="NSTaggedPointerString">opera</title>
+							<completionState className="__NSCFNumber">0</completionState>
+							<color className="__NSCFNumber">0</color>
+							<fontStyle className="__NSCFNumber">0</fontStyle>
+							<ID>80F60D15-709D-4765-8136-49B250C7E320</ID>
+							<ChildItems />
+						</ChildItem>
+						<ChildItem className="DMDocumentInnerObject">
+							<isExpanded className="__NSCFNumber">1</isExpanded>
+							<isGroup className="__NSCFNumber">1</isGroup>
+							<title className="NSTaggedPointerString">new edge</title>
+							<completionState className="__NSCFNumber">0</completionState>
+							<color className="__NSCFNumber">0</color>
+							<fontStyle className="__NSCFNumber">0</fontStyle>
+							<ID>5E34B619-A457-49A5-8659-F94898F96904</ID>
+							<ChildItems />
+						</ChildItem>
+					</ChildItem>
+					<ChildItem className="DMDocumentInnerObject">
+						<isExpanded className="__NSCFNumber">0</isExpanded>
+						<isGroup className="__NSCFNumber">1</isGroup>
+						<title className="NSTaggedPointerString">webkit</title>
+						<completionState className="__NSCFNumber">0</completionState>
+						<color className="__NSCFNumber">0</color>
+						<fontStyle className="__NSCFNumber">0</fontStyle>
+						<ID>FD325A22-8D05-4BD8-9CC7-BA60B0396AB9</ID>
+						<ChildItems>
+							<ID>FE404FC3-083C-4522-9FBD-0F847A955457</ID>
+						</ChildItems>
+						<ChildItem className="DMDocumentInnerObject">
+							<isExpanded className="__NSCFNumber">1</isExpanded>
+							<isGroup className="__NSCFNumber">1</isGroup>
+							<title className="NSTaggedPointerString">safari</title>
+							<completionState className="__NSCFNumber">0</completionState>
+							<color className="__NSCFNumber">0</color>
+							<fontStyle className="__NSCFNumber">0</fontStyle>
+							<ID>FE404FC3-083C-4522-9FBD-0F847A955457</ID>
+							<ChildItems />
+						</ChildItem>
+					</ChildItem>
+					<ChildItem className="DMDocumentInnerObject">
+						<isExpanded className="__NSCFNumber">0</isExpanded>
+						<isGroup className="__NSCFNumber">1</isGroup>
+						<title className="NSTaggedPointerString">EdgeHTML</title>
+						<completionState className="__NSCFNumber">0</completionState>
+						<color className="__NSCFNumber">0</color>
+						<fontStyle className="__NSCFNumber">0</fontStyle>
+						<ID>788539D2-2092-4F3A-9BC7-0E9B75D8C6F7</ID>
+						<ChildItems>
+							<ID>AA3A6B88-68E7-4828-AF5B-389CD226C875</ID>
+						</ChildItems>
+						<ChildItem className="DMDocumentInnerObject">
+							<isExpanded className="__NSCFNumber">1</isExpanded>
+							<isGroup className="__NSCFNumber">1</isGroup>
+							<title className="NSTaggedPointerString">Edge</title>
+							<completionState className="__NSCFNumber">0</completionState>
+							<color className="__NSCFNumber">0</color>
+							<fontStyle className="__NSCFNumber">0</fontStyle>
+							<ID>AA3A6B88-68E7-4828-AF5B-389CD226C875</ID>
+							<ChildItems />
+						</ChildItem>
+					</ChildItem>
+					<ChildItem className="DMDocumentInnerObject">
+						<isExpanded className="__NSCFNumber">0</isExpanded>
+						<isGroup className="__NSCFNumber">1</isGroup>
+						<title className="NSTaggedPointerString">Trident</title>
+						<completionState className="__NSCFNumber">0</completionState>
+						<color className="__NSCFNumber">0</color>
+						<fontStyle className="__NSCFNumber">0</fontStyle>
+						<ID>A155326E-F88F-47FE-A2F9-12E40E63C8DA</ID>
+						<ChildItems>
+							<ID>6B5B1A6D-71A6-4785-8A2E-EB4513CCB37B</ID>
+						</ChildItems>
+						<ChildItem className="DMDocumentInnerObject">
+							<isExpanded className="__NSCFNumber">1</isExpanded>
+							<isGroup className="__NSCFNumber">1</isGroup>
+							<title className="__NSCFString">Internet Explorer</title>
+							<completionState className="__NSCFNumber">0</completionState>
+							<color className="__NSCFNumber">0</color>
+							<fontStyle className="__NSCFNumber">0</fontStyle>
+							<ID>6B5B1A6D-71A6-4785-8A2E-EB4513CCB37B</ID>
+							<ChildItems />
+						</ChildItem>
+					</ChildItem>
+				</ChildItem>
+			</ChildItem>
+			<ChildItem className="DMDocumentInnerObject">
+				<isExpanded className="__NSCFNumber">1</isExpanded>
+				<isGroup className="__NSCFNumber">1</isGroup>
+				<title className="NSTaggedPointerString">html</title>
+				<completionState className="__NSCFNumber">0</completionState>
+				<color className="__NSCFNumber">0</color>
+				<fontStyle className="__NSCFNumber">0</fontStyle>
+				<ID>07A57E0D-D6CE-42F3-A297-C0E4AB3AA171</ID>
+				<ChildItems />
+			</ChildItem>
+			<ChildItem className="DMDocumentInnerObject">
+				<isExpanded className="__NSCFNumber">1</isExpanded>
+				<isGroup className="__NSCFNumber">1</isGroup>
+				<title className="NSTaggedPointerString">css</title>
+				<completionState className="__NSCFNumber">0</completionState>
+				<color className="__NSCFNumber">0</color>
+				<fontStyle className="__NSCFNumber">0</fontStyle>
+				<ID>E6258D0F-B13A-427C-98C0-7E70554DA7AE</ID>
+				<ChildItems />
+			</ChildItem>
+			<ChildItem className="DMDocumentInnerObject">
+				<isExpanded className="__NSCFNumber">1</isExpanded>
+				<isGroup className="__NSCFNumber">1</isGroup>
+				<title className="__NSCFConstantString">javascript</title>
+				<completionState className="__NSCFNumber">0</completionState>
+				<color className="__NSCFNumber">0</color>
+				<fontStyle className="__NSCFNumber">0</fontStyle>
+				<ID>E8D090F2-134E-46FA-8857-22F8C4767264</ID>
+				<ChildItems />
+			</ChildItem>
+		</context>
+		<fontSize className="__NSCFNumber">18</fontSize>
+		<defaultFontStyle className="__NSCFNumber">0</defaultFontStyle>
+		<defaultColor className="__NSCFNumber">0</defaultColor>
+		<numerationStyle className="__NSCFNumber">0</numerationStyle>
+		<lastModificationTime className="__NSCFNumber">1563971846.682783</lastModificationTime>
+		<showCheckBox className="__NSCFNumber">1</showCheckBox>
+		<hideCheckedEnements className="__NSCFNumber">0</hideCheckedEnements>
+		<hideUncheckedEnements className="__NSCFNumber">0</hideUncheckedEnements>
+		<resizebleLineForTextSize className="__NSCFNumber">0</resizebleLineForTextSize>
+		<showNotesOnlyForSelectedRow className="__NSCFNumber">0</showNotesOnlyForSelectedRow>
+		<readOnly className="__NSCFNumber">0</readOnly>
+		<ID>D9100EAB-AF11-44F7-A3EE-268EC4AC6B3E</ID>
+		<ChildItems />
+	</Properties>
+	<BaseVersion>
+		<VersionNumber>-1</VersionNumber>
+		<Modified>1</Modified>
+		<Ext>(null)</Ext>
+		<Properties className="DMDocument">
+			<isExpanded className="__NSCFNumber">1</isExpanded>
+			<isGroup className="__NSCFNumber">0</isGroup>
+			<title className="NSTaggedPointerString">Lesson 1</title>
+			<password className="__NSCFConstantString">(null)</password>
+			<markColor className="__NSCFNumber">0</markColor>
+			<note className="__NSCFConstantString">(null)</note>
+			<context className="DMDocumentInnerObject">
+				<isExpanded className="__NSCFNumber">1</isExpanded>
+				<isGroup className="__NSCFNumber">1</isGroup>
+				<title className="NSTaggedPointerString">Group</title>
+				<completionState className="__NSCFNumber">0</completionState>
+				<color className="__NSCFNumber">0</color>
+				<fontStyle className="__NSCFNumber">0</fontStyle>
+				<ID>E75BDA16-B31F-4332-96D5-907324E00FAE</ID>
+				<ChildItems>
+					<ID>C51EAE86-B43C-499E-9070-208048B54765</ID>
+					<ID>7D555491-CEAC-4067-9120-A0E120EE4ABE</ID>
+				</ChildItems>
+				<ChildItem className="DMDocumentInnerObject">
+					<isExpanded className="__NSCFNumber">1</isExpanded>
+					<isGroup className="__NSCFNumber">1</isGroup>
+					<title className="__NSCFConstantString">(null)</title>
+					<completionState className="__NSCFNumber">0</completionState>
+					<color className="__NSCFNumber">0</color>
+					<fontStyle className="__NSCFNumber">0</fontStyle>
+					<ID>C51EAE86-B43C-499E-9070-208048B54765</ID>
+					<ChildItems />
+				</ChildItem>
+				<ChildItem className="DMDocumentInnerObject">
+					<isExpanded className="__NSCFNumber">1</isExpanded>
+					<isGroup className="__NSCFNumber">1</isGroup>
+					<title className="__NSCFConstantString">(null)</title>
+					<completionState className="__NSCFNumber">0</completionState>
+					<color className="__NSCFNumber">0</color>
+					<fontStyle className="__NSCFNumber">0</fontStyle>
+					<ID>7D555491-CEAC-4067-9120-A0E120EE4ABE</ID>
+					<ChildItems />
+				</ChildItem>
+			</context>
+			<fontSize className="__NSCFNumber">18</fontSize>
+			<defaultFontStyle className="__NSCFNumber">0</defaultFontStyle>
+			<defaultColor className="__NSCFNumber">0</defaultColor>
+			<numerationStyle className="__NSCFNumber">0</numerationStyle>
+			<lastModificationTime className="__NSCFNumber">1563901314.722542</lastModificationTime>
+			<showCheckBox className="__NSCFNumber">1</showCheckBox>
+			<hideCheckedEnements className="__NSCFNumber">0</hideCheckedEnements>
+			<hideUncheckedEnements className="__NSCFNumber">0</hideUncheckedEnements>
+			<resizebleLineForTextSize className="__NSCFNumber">0</resizebleLineForTextSize>
+			<showNotesOnlyForSelectedRow className="__NSCFNumber">0</showNotesOnlyForSelectedRow>
+			<readOnly className="__NSCFNumber">0</readOnly>
+			<ID>D9100EAB-AF11-44F7-A3EE-268EC4AC6B3E</ID>
+			<ChildItems />
+		</Properties>
+	</BaseVersion>
+</Document>
